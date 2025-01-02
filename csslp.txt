@@ -1,4 +1,4 @@
-Version 0.2
+Version 0.5
 -----------
 
 Once you have passed the exam for an ISC2 certification, you must be endorsed by another ISC2-certified professional. This requirement applies to all credentials, even if you already hold an ISC2 certification, as the requirements for each credential vary. You must also pay your first Annual Maintenance Fee (AMF) before the credential can be awarded.
